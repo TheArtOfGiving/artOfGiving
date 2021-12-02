@@ -26,6 +26,8 @@ growth, and academic excellence. Shanti Bhavan’s work
 was the subject of a recent Netflix documentary which
 Dadaji watched.
 
+[Go to Shanti Bhavan →](https://www.shantibhavanchildren.org/)
+
 ## [Smile Foundation](https://heysmilefoundation.org/)
 > Smile Foundation is an Indian social development
 organization, with more than 400 live welfare projects
