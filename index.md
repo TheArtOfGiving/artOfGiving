@@ -37,7 +37,7 @@ slums across 25 states of India.
 
 [Go to Smile Foundation →](https://heysmilefoundation.org/)
 
-## Shabri(https://theshabri.org/)
+## Shabri
 > Shabri began as a women's education charity in the
 Kaprada district in Gujarat, where there were no girls
 attending secondary school. Today 600 girls attend
