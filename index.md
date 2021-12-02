@@ -2,122 +2,70 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Dadaji was a firm believer in the importance of 
+helping others and instilled the ideas of
+dana and seva in us.
 
-[Link to another page](./another-page.html).
+To continue his legacy, our family will be
+supporting causes in India, Tanzania and the
+UK via [theartofgiving.org.uk](theartofgiving.org.uk)
 
-There should be whitespace between paragraphs.
+We would be honoured if you would join us.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Please donate in his memory via the
+collection boxes or the link below.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[https://www.crowdfunder.co.uk/the-art-of-giving](https://www.crowdfunder.co.uk/the-art-of-giving)
 
 
-### Definition lists can be used with HTML syntax.
+## Shanti Bhavan
+> Shanti Bhavan empowers children by paying attention to
+every aspect of a child’s upbringing: emotional
+development, physical fitness, social and cognitive
+growth, and academic excellence. Shanti Bhavan’s work
+was the subject of a recent Netflix documentary which
+Dadaji watched.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## Smile Foundation
+> Smile Foundation is an Indian social development
+organization, with more than 400 live welfare projects
+on education, healthcare, livelihood, and women’s
+empowerment in over 2,000 remote villages and urban
+slums across 25 states of India.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## Shabri
+> Shabri began as a women's education charity in the
+Kaprada district in Gujarat, where there were no girls
+attending secondary school. Today 600 girls attend
+secondary education annually. Shabri have expanded
+their vision to include economic development,
+supporting the entire region in terms of rain water
+harvesting and improved farming practices.
 
-```
-The final element.
-```
+## Ujamaa children's home
+> "Ujamaa" is a Swahili word that means extended family.
+Ujamaa children's home in Arusha, Tanzania isn’t an
+orphanage; it’s a home. Children are raised in a family
+environment where they live together as brothers and
+sisters, a bond that will remain for the rest of their lives.
+
+## Mother Teresa Charity
+> Missionaries of charity was set up by Mother Teresa to
+serve the poorest in society. Dadaji sponsored the
+education of 7 children, in each of the grandchildren's
+name. When the family visited Tabora, Tanzania they had
+the opportunity to see first hand the good work done.
+
+## Mind
+> Mind is a mental health charity in the UK that provides
+direct advice and support to empower anyone
+experiencing a mental health problem. They also
+campaign to improve services, raise public awareness and
+promote understanding.
+
+## Nishkam SWAT
+> Nishkam SWAT are a Sikh charity serving langhar on the
+streets. They aim to unite and transform financially
+disadvantaged communities, particularly those who are
+homeless. As well as providing food they link up with
+other outreach services to provide holistic support.
